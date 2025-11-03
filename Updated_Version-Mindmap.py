@@ -1,5 +1,5 @@
 """
-journal_bot.py — Lightweight terminal emotional journaling chatbot.
+journal_bot.py — Terminal-Based emotional journaling chatbot.
 
 Usage:
     python journal_bot.py
